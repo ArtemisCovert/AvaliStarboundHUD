@@ -1,0 +1,32 @@
+[
+{ "op" : "replace","path" : "/energyBarColor","value" : "#f69b28" },
+{ "op" : "replace","path" : "/energyBarUnusableColor","value" : "#aa6b1c" },
+{ "op" : "replace","path" : "/energyBarRegenMixColor","value" : "#ffb75c" },
+
+{ "op" : "replace","path" : "/foodBarFlashOverlay","value" : "/interface/bars/avl_foodbarflashoverlay.png" },
+
+{ "op" : "replace","path" : "/paneLayout/backing/file","value" : "/interface/party/avl_playerbar.png" },
+{ "op" : "replace","path" : "/paneLayout/backing/position","value" : [0, -45] },
+
+{ "op" : "replace","path" : "/paneLayout/portrait/position","value" : [16, -24] },
+
+{ "op" : "replace","path" : "/paneLayout/inviteButton/base","value" : "/interface/party/avl_invite.png" },
+{ "op" : "replace","path" : "/paneLayout/inviteButton/pressed","value" : "/interface/party/avl_invitepressed.png" },
+
+{ "op" : "replace","path" : "/paneLayout/overlay/file","value" : "/interface/fckyousleepingtea.png" },
+
+{ "op" : "replace","path" : "/paneLayout/healthBar/position","value" : [32, -24] },
+{ "op" : "replace","path" : "/paneLayout/healthBar/background","value" : "/interface/bars/avl_empty_healthbar.png" },
+{ "op" : "replace","path" : "/paneLayout/healthBar/size","value" : [76, 12] },
+{ "op" : "replace","path" : "/paneLayout/healthBar/progressSet/inner","value" : "/interface/bars/avl_healthbar.png" },
+
+{ "op" : "replace","path" : "/paneLayout/energyBar/position","value" : [32, -29] },
+{ "op" : "replace","path" : "/paneLayout/energyBar/background","value" : "/interface/bars/avl_empty_energybar.png" },
+{ "op" : "replace","path" : "/paneLayout/energyBar/size","value" : [65, 4] },
+{ "op" : "replace","path" : "/paneLayout/energyBar/progressSet/inner","value" : "/interface/bars/avl_energybar.png" },
+
+{ "op" : "replace","path" : "/paneLayout/foodBar/position","value" : [30, -34] },
+{ "op" : "replace","path" : "/paneLayout/foodBar/background","value" : "/interface/bars/avl_emptyfoodbar.png" },
+{ "op" : "replace","path" : "/paneLayout/foodBar/size","value" : [68, 6] },
+{ "op" : "replace","path" : "/paneLayout/foodBar/progressSet/inner","value" : "/interface/bars/avl_foodbar.png" }
+]

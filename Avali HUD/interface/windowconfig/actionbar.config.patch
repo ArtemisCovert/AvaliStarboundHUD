@@ -1,0 +1,61 @@
+[
+
+{ "op" : "replace","path" : "/countMidAnchor","value" : [10, 0] },
+
+{ "op" : "replace","path" : "/paneLayout/background/fileBody","value" : "/interface/actionbar/avl_actionbarbg.png" },
+
+{ "op" : "replace","path" : "/paneLayout/customBar1L/position","value" : [33, 6] },
+{ "op" : "replace","path" : "/paneLayout/customBar1L/backingImage","value" : "/interface/fckyousleepingtea.png" },
+{ "op" : "replace","path" : "/paneLayout/customBar1LOverlay/position","value" : [33, 6] },
+{ "op" : "replace","path" : "/paneLayout/customBar1R/position","value" : [50, 6] },
+{ "op" : "replace","path" : "/paneLayout/customBar1R/backingImage","value" : "/interface/fckyousleepingtea.png" },
+{ "op" : "replace","path" : "/paneLayout/customBar1ROverlay/position","value" : [50, 6] },
+
+{ "op" : "replace","path" : "/paneLayout/customBar2L/position","value" : [69, 6] },
+{ "op" : "replace","path" : "/paneLayout/customBar2L/backingImage","value" : "/interface/fckyousleepingtea.png" },
+{ "op" : "replace","path" : "/paneLayout/customBar2LOverlay/position","value" : [69, 6] },
+{ "op" : "replace","path" : "/paneLayout/customBar2R/position","value" : [86, 6] },
+{ "op" : "replace","path" : "/paneLayout/customBar2R/backingImage","value" : "/interface/fckyousleepingtea.png" },
+{ "op" : "replace","path" : "/paneLayout/customBar2ROverlay/position","value" : [86, 6] },
+
+{ "op" : "replace","path" : "/paneLayout/customBar3L/position","value" : [105, 6] },
+{ "op" : "replace","path" : "/paneLayout/customBar3L/backingImage","value" : "/interface/fckyousleepingtea.png" },
+{ "op" : "replace","path" : "/paneLayout/customBar3LOverlay/position","value" : [105, 6] },
+{ "op" : "replace","path" : "/paneLayout/customBar3R/position","value" : [122, 6] },
+{ "op" : "replace","path" : "/paneLayout/customBar3R/backingImage","value" : "/interface/fckyousleepingtea.png" },
+{ "op" : "replace","path" : "/paneLayout/customBar3ROverlay/position","value" : [122, 6] },
+
+{ "op" : "replace","path" : "/paneLayout/customBar4L/position","value" : [221, 6] },
+{ "op" : "replace","path" : "/paneLayout/customBar4L/backingImage","value" : "/interface/fckyousleepingtea.png" },
+{ "op" : "replace","path" : "/paneLayout/customBar4LOverlay/position","value" : [221, 6] },
+{ "op" : "replace","path" : "/paneLayout/customBar4R/position","value" : [238, 6] },
+{ "op" : "replace","path" : "/paneLayout/customBar4R/backingImage","value" : "/interface/fckyousleepingtea.png" },
+{ "op" : "replace","path" : "/paneLayout/customBar4ROverlay/position","value" : [238, 6] },
+
+{ "op" : "replace","path" : "/paneLayout/customBar5L/position","value" : [257, 6] },
+{ "op" : "replace","path" : "/paneLayout/customBar5L/backingImage","value" : "/interface/fckyousleepingtea.png" },
+{ "op" : "replace","path" : "/paneLayout/customBar5LOverlay/position","value" : [257, 6] },
+{ "op" : "replace","path" : "/paneLayout/customBar5R/position","value" : [274, 6] },
+{ "op" : "replace","path" : "/paneLayout/customBar5R/backingImage","value" : "/interface/fckyousleepingtea.png" },
+{ "op" : "replace","path" : "/paneLayout/customBar5ROverlay/position","value" : [274, 6] },
+
+{ "op" : "replace","path" : "/paneLayout/customBar6L/position","value" : [293, 6] },
+{ "op" : "replace","path" : "/paneLayout/customBar6L/backingImage","value" : "/interface/fckyousleepingtea.png" },
+{ "op" : "replace","path" : "/paneLayout/customBar6LOverlay/position","value" : [393, 6] },
+{ "op" : "replace","path" : "/paneLayout/customBar6R/position","value" : [310, 6] },
+{ "op" : "replace","path" : "/paneLayout/customBar6R/backingImage","value" : "/interface/fckyousleepingtea.png" },
+{ "op" : "replace","path" : "/paneLayout/customBar6ROverlay/position","value" : [310, 6] },
+
+{ "op" : "replace","path" : "/paneLayout/essentialBar1/position","value" : [143, 5] },
+{ "op" : "replace","path" : "/paneLayout/essentialBar1/backingImage","value" : "/interface/fckyousleepingtea.png" },
+{ "op" : "replace","path" : "/paneLayout/essentialBar2/position","value" : [162, 5] },
+{ "op" : "replace","path" : "/paneLayout/essentialBar2/backingImage","value" : "/interface/fckyousleepingtea.png" },
+{ "op" : "replace","path" : "/paneLayout/essentialBar3/position","value" : [181, 5] },
+{ "op" : "replace","path" : "/paneLayout/essentialBar3/backingImage","value" : "/interface/fckyousleepingtea.png" },
+{ "op" : "replace","path" : "/paneLayout/essentialBar4/position","value" : [200, 5] },
+{ "op" : "replace","path" : "/paneLayout/essentialBar4/backingImage","value" : "/interface/fckyousleepingtea.png" },
+
+{ "op" : "replace","path" : "/paneLayout/customSelect/file","value" : "/interface/fckyousleepingtea.png" },
+{ "op" : "replace","path" : "/paneLayout/essentialSelect/file","value" : "/interface/fckyousleepingtea.png" }
+
+]
